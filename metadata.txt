@@ -3,17 +3,17 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=Dyna Crop
+name=Previsioni
 qgisMinimumVersion=3.0
-description=This plugin connect to DynaCrop World From Space API.
+description=This plugin connect to Previsioni API.
 version=0.1.10
 author=Jan Ruzicka, Otto Kalab, Katerina Ruzickova
-email=jan.ruzicka.vsb@gmail.com
+email=office@worldfrom.space
 
-about=This plugin connect to DynaCrop World From Space API. Documentation at https://docs.dynacrop.space/docs/#/
+about=This plugin connects to Previsioni API.
 
-tracker=https://github.com/OpenGeoLabs/qgis-world-from-space-plugin/issues
-repository=https://github.com/OpenGeoLabs/qgis-world-from-space-plugin/
+tracker=https://github.com/World-From-Space/qgis-previsioni-plugin/issues
+repository=https://github.com/World-From-Space/qgis-previsioni-plugin/
 # End of mandatory metadata
 
 # Recommended items:
@@ -25,7 +25,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=crop, earth observation, vegetation indexes
 
-homepage=https://dynacrop.space/
+homepage=https://previsioni.com.br
 category=Plugins
 icon=icon.png
 # experimental flag

@@ -85,7 +85,7 @@
     <message>
         <location filename="../world_from_space_widget_base.ui" line="20"/>
         <source>Dyna Crop</source>
-        <translation>Dyna Crop</translation>
+        <translation>Previsioni</translation>
     </message>
     <message>
         <location filename="../world_from_space_widget_base.ui" line="32"/>
@@ -231,12 +231,12 @@
     <message>
         <location filename="../world_from_space.py" line="218"/>
         <source>&amp;DynaCrop</source>
-        <translation>&amp;DynaCrop</translation>
+        <translation>Previsioni</translation>
     </message>
     <message>
         <location filename="../world_from_space.py" line="168"/>
         <source>Show DynaCrop widget</source>
-        <translation>Show DynaCrop widget</translation>
+        <translation>Show Previsioni widget</translation>
     </message>
 </context>
 <context>

@@ -1,13 +1,13 @@
-# Plugin QGIS - Dyna Crop (World from space)
+# Plugin QGIS - Previsioni
 
 ## Summary
-The plugin connects to the DynaCrop API from World from Space and show environmental earth observation indexes focused to the agriculture area.
+The plugin connects to the Previsioni API and show environmental earth observation indexes focused to the agriculture area.
 
 ## Usage
 You can show main plugin widget (dialog) by clicking on button ![icon.png](img/icon.png) in Plugins Toolbar.
 
 ### Settings window
-Each user should have his own API key, which autorize him during using the plugin (registration is solved at World from space).
+Each user should have his own API key, which autorize him during using the plugin.
 The API key must be put into form, which is available under the button Settings ![img.png](img/img.png). There could be also set the path to directory, where the results will be saved.
 
 ![settings_window.png](img/settings_window.png)
